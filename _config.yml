@@ -1,0 +1,28 @@
+name: 'Beverly Hills Pool & Spa Service'
+favicon: null
+layout_spectrum: 0.8298012826126069
+typography_spectrum: 0.8292620787397027
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.1924482809845358
+  lightness: 0.757650185842067
+  saturation: 0.49440551339648664
+  rhythmicContrast: 0.3829027290921658
+purpose: []
